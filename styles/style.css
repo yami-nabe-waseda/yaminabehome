@@ -1,5 +1,5 @@
 body {
-background: #b0c4de;
+padding-top: 90px; /* ヘッダーの後ろに要素が隠れないようにするため */
 }
 
 header {
