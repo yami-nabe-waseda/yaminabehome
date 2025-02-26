@@ -26,7 +26,3 @@ header .gnav .menu li {
 header .gnav .menu li + li {
     margin-left: 40px; /* メニューそれぞれに間隔をあけるため */
 }
-
-main {
-    height: 100vw; /* スクロールの演出を見れるようにmainに高さを指定 */
-}
