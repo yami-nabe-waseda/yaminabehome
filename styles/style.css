@@ -27,7 +27,6 @@ header .gnav .menu li {
 header .gnav .menu li a {
     color: #e0ffff; /*文字の色をlightcyanに指定*/
 }
-    color: #e0ffff; /*文字の色をlightcyanに指定*/
 
 header .gnav .menu li + li {
     margin-left: 40px; /* メニューそれぞれに間隔をあけるため */
