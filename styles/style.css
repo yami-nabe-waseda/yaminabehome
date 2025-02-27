@@ -16,16 +16,16 @@ header {
     align-items: center; /* 中の要素を上下中央に並べる */
 }
 
+header .menu li a {
+    color: #e0ffff; /*文字の色をlightcyanに指定*/
+}
+
 header .gnav .menu {
     display: flex; /* 中の要素を横並びにする */
 }
 
 header .gnav .menu li {
     list-style: none; /* リストの[・]を消す */
-}
-
-header .gnav .menu li a {
-    color: #e0ffff; /*文字の色をlightcyanに指定*/
 }
 
 header .gnav .menu li + li {
