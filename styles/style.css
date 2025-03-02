@@ -1,5 +1,6 @@
 body {
 padding-top: 90px; /* ヘッダーの後ろに要素が隠れないようにするため */
+width: 70%;
 }
 
 header {
