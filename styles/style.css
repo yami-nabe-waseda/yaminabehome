@@ -49,3 +49,19 @@ footer{
  position: absolute;/*絶対位置*/
     bottom: 0; /*下に固定*/
 }
+/* PC時 */
+@media screen and (min-width: 767px) {
+  /*ウィンドウ幅が767px以上の場合に適用*/
+}
+
+/* タブレット用 */
+@media screen and (max-width: 767px) {
+  /*ウィンドウ幅が最大767pxまでの場合に適用*/
+}
+
+/* スマホ用 */
+@media screen and (max-width: 479px) {
+  /*ウィンドウ幅が最大479pxまでの場合に適用*/
+  .allContents {
+    display: block;
+  }
